@@ -15,8 +15,3 @@ Ensuite, pour lancer le projet, exécutez la commande:
 ```bash
 java L2POO/Main
 ```
-
-## Auteurs
-
-- Benakli Rabha William (21960601)
-- Andrawos Saad David (21955132)
